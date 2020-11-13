@@ -1,1 +1,2 @@
-# annoyence
+# synchronousBallMovement
+Ball moving synchronously
